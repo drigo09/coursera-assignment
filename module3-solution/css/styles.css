@@ -1,0 +1,31 @@
+#header-nav {
+	background-color: #ADD8E6;
+}
+#collapsable-nav li a:hover{
+	background-color: #fff;
+}
+#main-content {
+	margin-top: 40px;
+}
+h2, h3{
+	text-align: center;
+}
+h3 {
+	margin-top: 0;
+}
+section {
+	margin-bottom: 20px;
+}
+#chicken > div{
+	background-color: #E6E6FA;
+}
+#beef > div{
+	background-color: #FFE4E1;
+}
+#sushi > div{
+	background-color: #D8BFD8;
+}
+
+section > div {
+	padding: 10px;
+}
